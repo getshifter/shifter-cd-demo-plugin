@@ -12,7 +12,7 @@
  * @package           Shifter_CD_Demo_Plugin
  *
  * @wordpress-plugin
- * Plugin Name:       Example Plugin for Shifter CD
+ * Plugin Name:       Name Update 1
  * Plugin URI:        https://github.com/getshifter/shifter-cd-demo-plugin
  * Description:       An example plugin to demonstrate the Shifter CD git deployment pipeline.
  * Version:           1.0.0
