@@ -15,7 +15,7 @@
  * Plugin Name:       Shifter WP Pusher Deploy Demo
  * Plugin URI:        https://github.com/getshifter/shifter-cd-demo-plugin
  * Description:       An example plugin to demonstrate the Shifter CD git deployment pipeline.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            DigitalCube
  * Author URI:        https://www.getshifter.io
  * License:           GPL-2.0+
